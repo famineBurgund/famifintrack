@@ -1,0 +1,9 @@
+app:
+  env: dev
+
+postgres:
+  host: localhost
+  port: 5432
+  name: graspy
+  username: postgres
+  password: asdf020202
